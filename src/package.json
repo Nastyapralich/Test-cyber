@@ -2,9 +2,9 @@
   "name": "project",
   "version": "1.0.0",
   "description": "",
-  "main": "./pages/form.html",
+  "main": "index.js",
   "scripts": {
-    "dev": "parcel ./pages/form.html"
+    "dev": "parcel ./pages/index.html"
   },
   "keywords": [],
   "author": "",
